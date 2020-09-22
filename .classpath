@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="lib" path="G:/Eclipse Projects/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="G:/Eclipse Projects/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Eclipse Projects/rs2xml.jar"/>
+	<classpathentry kind="lib" path="E:/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="E:/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/jfreechart-1.0.19/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="E:/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/jfreechart-1.0.19/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
